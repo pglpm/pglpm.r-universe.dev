@@ -1,10 +1,10 @@
 [
     {
-        "package": "prova",
-        "url": "https://github.com/pglpm/prova"
-    },
-    {
         "package": "Pinference",
         "url": "https://github.com/pglpm/Pinference"
+    },
+    {
+        "package": "prova",
+        "url": "https://github.com/pglpm/prova"
     },
 ]
